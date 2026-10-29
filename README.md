@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Production-Grade Observability Platform
 
 A containerized observability demonstration built with FastAPI, Prometheus, Grafana, Alertmanager, Node Exporter, cAdvisor, and Docker Compose.
@@ -74,3 +75,6 @@ Configure a secure external receiver and restricted administrative interfaces fo
 ## Production Security
 
 Use reviewed image versions, immutable deployment artifacts, TLS, authentication, network restrictions, persistent storage, secrets management, backup/restore procedures, and disaster-recovery testing before production use.
+=======
+# Observability-Platform
+>>>>>>> 81dd353eb98e0600afd430eb5cbc90649c627c23
